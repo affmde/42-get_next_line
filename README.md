@@ -11,9 +11,6 @@ In the bonus part we must replicate the same function, but this time, is require
 
 ## Language Used:
 [![My Skills](https://skills.thijs.gg/icons?i=c)](https://skills.thijs.gg)
-<br>
-<br>
-# <img src="https://cdn-icons-png.flaticon.com/128/627/627495.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="40" height="40" /> Usage
 
 <br>
 <br>

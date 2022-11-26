@@ -15,9 +15,6 @@ In the bonus part we must replicate the same function, but this time, is require
 <br>
 # <img src="https://cdn-icons-png.flaticon.com/128/627/627495.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="40" height="40" /> Usage
 
-## *Requirements:*
-
-The library is written in C, so it needs the gcc compiler as well has the libraries <unist.d> and <stdlib.h> to compile
 <br>
 <br>
 

@@ -40,7 +40,7 @@ The library is written in C, so it needs the gcc compiler as well has the librar
 + or for the bonus:
 
         get_next_line_bonus.c get_next_line_utils_bonus.c -I get_next_line.h -D BUFFER_SIZE=<size>
-Default buffer size is set to 30, but you can modify it by changing <size> of BUFFER_SIZE on compiling
+Default buffer size is set to 30, but you can modify it by changing the size field of BUFFER_SIZE on compiling.
 
 <br><br>
 
@@ -49,3 +49,10 @@ Default buffer size is set to 30, but you can modify it by changing <size> of BU
 ## **External testers:**
     
 + [gnlTester](https://github.com/Tripouille/gnlTester)
+
+<br><br>
+
+## Related Project
+
++ [42-libft](https://github.com/affmde/42-libft)
++ [42-ft_printf](https://github.com/affmde/42-ft_printf)

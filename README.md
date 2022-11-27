@@ -52,7 +52,7 @@ Default buffer size is set to 30, but you can modify it by changing the size fie
 
 <br><br>
 
-## Related Project
+## Related Projects
 
 + [42-libft](https://github.com/affmde/42-libft)
 + [42-ft_printf](https://github.com/affmde/42-ft_printf)
